@@ -161,7 +161,8 @@ METHOD add_expiry_time.
       EXPORTING
         textid       = zcx_adf_service=>expiry_time_not_set
         interface_id = gv_interface_id.
-  ENDIF.
+  ENDIF .
+  
 ENDMETHOD.
 
 
