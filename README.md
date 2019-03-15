@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.com/NaveenKurmadas/ABAP-SDK-for-Azure.svg?branch=master)](https://travis-ci.com/NaveenKurmadas/ABAP-SDK-for-Azure)
+[![Build Status](https://dev.azure.com/CseoCpeEasSapPlatform/ABAP-SDK-for-Azure/_apis/build/status/NaveenKurmadas.ABAP-SDK-for-Azure?branchName=master)](https://dev.azure.com/CseoCpeEasSapPlatform/ABAP-SDK-for-Azure/_build/latest?definitionId=1&branchName=master)
 
 # ABAP SDK for Azure
 
