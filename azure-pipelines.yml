@@ -7,8 +7,8 @@ steps:
   displayName: 'ABAPLint Install'
 - script: |
     abaplint --version
-    abaplint -f standard --outformat junit --outfile report.xml "src/**/*.*"
+    abaplint -h standard --outformat junit --outfile report.xml "src/**/*.*"
   displayName: 'ABAPLint Version'
 - script: |
-    abaplint -f standard --outformat junit --outfile report.xml "src/**/*.*"
+    abaplint -h standard --outformat junit --outfile report.xml "src/**/*.*"
   displayName: 'ABAPLint Run'
