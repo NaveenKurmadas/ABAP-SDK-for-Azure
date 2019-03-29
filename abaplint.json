@@ -26,18 +26,7 @@
       "enabled": true,
       "exclude": []
     },
-    "class_attribute_names": {
-      "enabled": true,
-      "exclude": [],
-      "ignoreExceptions": true,
-      "statics": "^G._.*$",
-      "instance": "^M._.*$"
-    },
     "cloud_types": {
-      "enabled": true,
-      "exclude": []
-    },
-    "colon_missing_space": {
       "enabled": true,
       "exclude": []
     },
@@ -46,14 +35,6 @@
       "exclude": []
     },
     "contains_tab": {
-      "enabled": true,
-      "exclude": []
-    },
-    "definitions_top": {
-      "enabled": true,
-      "exclude": []
-    },
-    "description_empty": {
       "enabled": true,
       "exclude": []
     },
@@ -113,14 +94,6 @@
       "enabled": true,
       "exclude": []
     },
-    "keywords_upper": {
-      "enabled": true,
-      "exclude": [],
-      "ignoreExceptions": true,
-      "ignoreLowerClassImplmentationStatement": true,
-      "ignoreGlobalClassDefinition": false,
-      "ignoreGlobalInterface": false
-    },
     "line_length": {
       "enabled": true,
       "exclude": [],
@@ -137,13 +110,6 @@
       "local": "^LCL_.*$",
       "test": "^LTCL_.*$"
     },
-    "local_variable_names": {
-      "enabled": true,
-      "exclude": [],
-      "expectedData": "^L._.*$",
-      "expectedConstant": "^LC_.*$",
-      "expectedFS": "^<L._.*>$"
-    },
     "max_one_statement": {
       "enabled": true,
       "exclude": []
@@ -156,18 +122,6 @@
       "enabled": true,
       "exclude": [],
       "statements": 100
-    },
-    "method_parameter_names": {
-      "enabled": true,
-      "exclude": [],
-      "ignoreExceptions": true,
-      "importing": "^I._.*$",
-      "returning": "^R._.*$",
-      "changing": "^C._.*$",
-      "exporting": "^E._.*$",
-      "ignoreNames": [
-        "P_TASK"
-      ]
     },
     "mix_returning": {
       "enabled": true,
@@ -218,11 +172,6 @@
     "parser_error": {
       "enabled": true,
       "exclude": []
-    },
-    "remove_descriptions": {
-      "enabled": true,
-      "exclude": [],
-      "ignoreExceptions": true
     },
     "sequential_blank": {
       "enabled": true,
