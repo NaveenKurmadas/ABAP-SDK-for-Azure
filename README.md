@@ -1,8 +1,7 @@
 
 [![Build Status](https://dev.azure.com/CseoCpeEasSapPlatform/ABAP-SDK-for-Azure/_apis/build/status/NaveenKurmadas.ABAP-SDK-for-Azure?branchName=master)](https://dev.azure.com/CseoCpeEasSapPlatform/ABAP-SDK-for-Azure/_build/latest?definitionId=1&branchName=master)
 
-[![Build Status](https://dev.azure.com/ms/ABAP-SDK-for-Azure/_apis/build/status/Microsoft.ABAP-SDK-for-Azure?branchName=master)](https://dev.azure.com/ms/ABAP-SDK-for-Azure/_build/results?buildId=11&view=ms.vss-test-web.build-test-results-tab
-&branchName=master)
+[![Build Status](https://dev.azure.com/ms/ABAP-SDK-for-Azure/_apis/build/status/Microsoft.ABAP-SDK-for-Azure?branchName=master)](https://dev.azure.com/ms/ABAP-SDK-for-Azure/_build/results?buildId=11&view=ms.vss-test-web.build-test-results-tab&branchName=master)
 
 # ABAP SDK for Azure
 
