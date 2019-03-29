@@ -10,5 +10,5 @@ steps:
     abaplint -f standard --outformat json --outfile report.xml "src/**/*.*"
   displayName: 'ABAPLint Version'
 - script: |
-    abaplint -d > abaplint.json --outformat junit --outfile report.xml "src/**/*.*"
+    abaplint -d abaplint.json --outformat junit --outfile report.xml "src/**/*.*"
   displayName: 'ABAPLint Run'
