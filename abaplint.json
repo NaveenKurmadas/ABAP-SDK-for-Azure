@@ -33,95 +33,7 @@
       "statics": "^G._.*$",
       "instance": "^M._.*$"
     },
-    "cloud_types": {
-      "enabled": true,
-      "exclude": []
-    },
-    "colon_missing_space": {
-      "enabled": true,
-      "exclude": []
-    },
-    "commented_code": {
-      "enabled": true,
-      "exclude": []
-    },
-    "contains_tab": {
-      "enabled": true,
-      "exclude": []
-    },
-    "definitions_top": {
-      "enabled": true,
-      "exclude": []
-    },
-    "description_empty": {
-      "enabled": true,
-      "exclude": []
-    },
-    "double_space": {
-      "enabled": true,
-      "exclude": []
-    },
-    "empty_line_in_statement": {
-      "enabled": true,
-      "exclude": [],
-      "allowChained": true
-    },
-    "empty_loop": {
-      "enabled": true,
-      "exclude": [],
-      "length": 120
-    },
-    "empty_statement": {
-      "enabled": true,
-      "exclude": []
-    },
-    "exit_or_check": {
-      "enabled": true,
-      "exclude": []
-    },
-    "exporting": {
-      "enabled": true,
-      "exclude": []
-    },
-    "functional_writing": {
-      "enabled": true,
-      "exclude": [],
-      "ignoreExceptions": true
-    },
-    "global_class": {
-      "enabled": true,
-      "exclude": []
-    },
-    "identical_form_names": {
-      "enabled": true,
-      "exclude": []
-    },
-    "if_in_if": {
-      "enabled": true,
-      "exclude": []
-    },
-    "indentation": {
-      "enabled": true,
-      "exclude": [],
-      "ignoreExceptions": true,
-      "alignTryCatch": false,
-      "globalClassSkipFirst": false,
-      "ignoreGlobalClassDefinition": false,
-      "ignoreGlobalInterface": false
-    },
-    "inline_data_old_versions": {
-      "enabled": true,
-      "exclude": []
-    },
-    "keywords_upper": {
-      "enabled": true,
-      "exclude": [],
-      "ignoreExceptions": true,
-      "ignoreLowerClassImplmentationStatement": true,
-      "ignoreGlobalClassDefinition": false,
-      "ignoreGlobalInterface": false
-    },
-    "line_length": {
+      "line_length": {
       "enabled": true,
       "exclude": [],
       "length": 120
@@ -137,13 +49,6 @@
       "local": "^LCL_.*$",
       "test": "^LTCL_.*$"
     },
-    "local_variable_names": {
-      "enabled": true,
-      "exclude": [],
-      "expectedData": "^L._.*$",
-      "expectedConstant": "^LC_.*$",
-      "expectedFS": "^<L._.*>$"
-    },
     "max_one_statement": {
       "enabled": true,
       "exclude": []
@@ -156,18 +61,6 @@
       "enabled": true,
       "exclude": [],
       "statements": 100
-    },
-    "method_parameter_names": {
-      "enabled": true,
-      "exclude": [],
-      "ignoreExceptions": true,
-      "importing": "^I._.*$",
-      "returning": "^R._.*$",
-      "changing": "^C._.*$",
-      "exporting": "^E._.*$",
-      "ignoreNames": [
-        "P_TASK"
-      ]
     },
     "mix_returning": {
       "enabled": true,
@@ -185,23 +78,6 @@
     "no_public_attributes": {
       "enabled": true,
       "exclude": []
-    },
-    "object_naming": {
-      "enabled": true,
-      "exclude": [],
-      "clas": "^ZC(L|X)\\_ADF\\_",
-      "intf": "^ZIF\\_ADF\\_",
-      "prog": "^ZADF",
-      "fugr": "^ZADF",
-      "tabl": "^Z",
-      "ttyp": "^Z",
-      "dtel": "^Z",
-      "doma": "^Z",
-      "msag": "^Z",
-      "tran": "^Z",
-      "enqu": "^Z",
-      "auth": "^Z",
-      "pinf": "^Z"
     },
     "obsolete_statement": {
       "enabled": true,
@@ -235,11 +111,7 @@
       "length": 1,
       "allow": ["iv_action", "sy"]
     },
-    "space_before_colon": {
-      "enabled": true,
-      "exclude": []
-    },
-    "start_at_tab": {
+     "start_at_tab": {
       "enabled": true,
       "exclude": []
     },
